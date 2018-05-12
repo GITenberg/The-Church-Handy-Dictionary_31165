@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31165#The-Church-Handy-Dictionary
 gutenberg_issued: '2010-02-03'
 gutenberg_type: Text
 identifiers:
